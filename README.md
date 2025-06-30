@@ -14,6 +14,8 @@ Je suis **David Chhang**, développeur web et mobile fullstack passionné depuis
 👨‍🏫 Jury des titres pro DWWM et CDA  
 📹 Vidéaste freelance formé, parce que la passion ne se compile pas
 
+https://cdpro-web.fr : Mon offre MVP en 30 jours pour 1000€
+
 ---
 
 ## 🚀 Ce que vous trouverez ici
@@ -71,5 +73,6 @@ Mobile       : Flutter, Vue Native, Quasar
 <img align="left" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
+https://cdpro-web.fr
 
 
