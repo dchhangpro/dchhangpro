@@ -47,7 +47,8 @@ Si vous cherchez :
 
 Alors, on devrait discuter.  
 👉 [Contactez-moi sur LinkedIn](https://www.linkedin.com/in/david-chhang-7b93a134)
-https://cdpro-web.fr
+
+🔗 https://cdpro-web.fr
 
 ---
 
