@@ -47,6 +47,7 @@ Si vous cherchez :
 
 Alors, on devrait discuter.  
 👉 [Contactez-moi sur LinkedIn](https://www.linkedin.com/in/david-chhang-7b93a134)
+https://cdpro-web.fr
 
 ---
 
@@ -57,8 +58,6 @@ Frontend     : Vue.js, TailwindCSS
 Backend      : Laravel, Firebase, MySQL
 Mobile       : Flutter, Vue Native, Quasar
 ```
-
-https://cdpro-web.fr
 
 <img align="left" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -74,5 +73,3 @@ https://cdpro-web.fr
 <img align="left" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img align="left" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-
