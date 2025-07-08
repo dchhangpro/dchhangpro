@@ -15,6 +15,7 @@ Je suis **David Chhang**, développeur web et mobile fullstack passionné depuis
 📹 Vidéaste freelance formé, parce que la passion ne se compile pas
 
 https://cdpro-web.fr : Mon offre MVP en 30 jours pour 1000€
+
 https://curriculumvitae.cdpro-web.fr : Mon site CV
 
 ---
